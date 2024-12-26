@@ -18,7 +18,7 @@ body {
 
 .header {
     position: relative;
-    background: #ffcccb;
+    background: #5e88bf;
     border-radius: 10px;
     padding: 10px;
 }
@@ -28,18 +28,12 @@ body {
     display: inline-block;
 }
 
-h1 {
-    color: #ff6347;
-}
-
-.countdown {
-    font-size: 20px;
-    margin: 20px 0;
-    color: #ff4500;
-}
-
 .details {
     margin: 20px 0;
+    font-size: 20px;
+    font-style: italic;
+    color: #5e88bf;
+    text-align: center;
 }
 
 button {
@@ -75,3 +69,31 @@ input[type="number"] {
     width: calc(100% - 30px);
 }
  
+
+.nav2 {
+    background-color: #5e88bf;
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  
+}
+
+
+.nav3 {
+    background-color: #5e88bf;
+    color: white;
+    border-radius: 10px;
+   
+  
+}
+
+.nav4 {
+    margin: 20px 0;
+    font-size: 20px;
+    
+    color: #5e88bf;
+    text-align: center;
+}
+  
