@@ -1,3 +1,16 @@
+   // Mostra l'alert personalizzato al caricamento della pagina
+   window.onload = function() {
+    document.getElementById('customAlert').style.display = 'block';
+    document.getElementById('overlay').style.display = 'block';
+};
+
+// Funzione per chiudere l'alert
+function closeAlert() {
+    document.getElementById('customAlert').style.display = 'none';
+    document.getElementById('overlay').style.display = 'none';
+}
+
+
 // Countdown
 const eventDate = new Date("2024-01-01T00:00:00").getTime();
 const countdownElement = document.getElementById("countdown");
