@@ -18,7 +18,7 @@ body {
 
 .header {
     position: relative;
-    background: #5e88bf;
+    background: #e8ccfc;
     border-radius: 10px;
     padding: 10px;
 }
@@ -32,12 +32,12 @@ body {
     margin: 20px 0;
     font-size: 20px;
     font-style: italic;
-    color: #5e88bf;
+    color: #b466eb;
     text-align: center;
 }
 
 button {
-    background: #48d1cc;
+    background: #b466eb;
     border: none;
     color: white;
     padding: 10px 20px;
@@ -47,7 +47,7 @@ button {
 }
 
 button:hover {
-    background: #40bfbf;
+    background: #e8ccfc;
 }
 
 footer {
@@ -71,10 +71,10 @@ input[type="number"] {
  
 
 .nav2 {
-    background-color: #5e88bf;
+    background-color: #e8ccfc;
     display: flex;
     justify-content: center;
-    color: white;
+    color: #b466eb;
     text-decoration: none;
     font-size: 16px;
   
@@ -82,7 +82,7 @@ input[type="number"] {
 
 
 .nav3 {
-    background-color: #5e88bf;
+    background-color: #b466eb;
     color: white;
     border-radius: 10px;
    
@@ -93,7 +93,7 @@ input[type="number"] {
     margin: 20px 0;
     font-size: 20px;
     
-    color: #5e88bf;
+    color: #e8ccfc;
     text-align: center;
 }
   
@@ -107,7 +107,7 @@ input[type="number"] {
     width: 80%;
     max-width: 500px;
     padding: 20px;
-    background-color: #5e88bf;
+    background-color: #e8ccfc;
     color: white;
     border-radius: 10px;
     text-align: center;
@@ -119,7 +119,7 @@ input[type="number"] {
 .custom-alert button {
     margin-top: 20px;
     padding: 10px 20px;
-    background-color: #003366;
+    background-color: #b466eb;
     color: white;
     border: none;
     border-radius: 5px;
@@ -127,7 +127,7 @@ input[type="number"] {
 }
 
 .custom-alert button:hover {
-    background-color: #002244;
+    background-color: #b466eb;
 }
 
 /* Sfondo scuro dietro l'alert */
@@ -140,4 +140,15 @@ input[type="number"] {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 999;
+}
+.nav5 {
+    
+    
+    color: #b466eb;
+   
+}
+.nav6  {
+border-radius: 5px;
+border-color: #b466eb;
+border-style: solid;
 }
