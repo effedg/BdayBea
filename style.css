@@ -142,15 +142,18 @@ input[type="number"] {
     z-index: 999;
 }
 .nav5 {
-    
-    
+    font-size: 20px;
+    padding: 10px; /* Spazio interno */
+    background-color: #f0f0f0; /* Sfondo per evidenziare */
+    border-radius: 5px;
+    display: inline-block; 
     color: #b466eb;
-   
-}
-.nav6  {
-border-radius: 5px;
+   border-radius: 5px;
 border-color: #b466eb;
 border-style: solid;
+}
+.nav6  {
+color: #b466eb;
 }
 .nav7 {
     
