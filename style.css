@@ -143,9 +143,9 @@ input[type="number"] {
 }
 .nav5 {
     font-size: 20px;
-    padding: 10px; /* Spazio interno */
+    padding: 5px; /* Spazio interno */
     background-color: #f0f0f0; /* Sfondo per evidenziare */
-    border-radius: 5px;
+    border-radius: 1px;
     display: inline-block; 
     color: #b466eb;
    border-radius: 5px;
